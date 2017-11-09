@@ -1,0 +1,45 @@
+ #lefttop{
+       width:240px;
+       height:35px;
+       margin:0px auto;
+       background-color:brown;
+    }
+  #leftbelow li{
+       padding-top:10px;
+
+  }
+  #leftbelow a{
+        font-size:18px;
+        color:blue;
+        font-weight:bold;
+
+  }
+  #leftbelow a:hover{
+        font-size:18px;
+        color:brown;
+        font-weight:bold;
+
+  }
+
+
+
+#admission1{
+                    width:990px;
+                    height:80px;
+                    background-color:;
+                }
+
+
+               #admission1 p{
+                    width:320px;
+                    height:40px;
+                    padding-bottom:5px;
+                    padding-left:15px;
+                    background-color:brown;
+                    float:right;
+                    color:white;
+                    font-size:30px;
+                    font-weight:bold;
+                    box-shadow:10px 5px 10px black;
+                   
+              }
